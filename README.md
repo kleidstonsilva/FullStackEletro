@@ -1,2 +1,2 @@
 # FullStackEletro
- Foi utilizado HTML, CSS e JavaScript 
+ Foi utilizado HTML e CSS 
