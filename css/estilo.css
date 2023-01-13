@@ -1,0 +1,26 @@
+p {
+    /* color: red; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#roda_teto1 {
+    background: rgb(0, 119, 255);
+    width: 100%;
+}
+
+#roda_teto {
+    background: red;
+    width: 100%;
+}
+
+#formas_pagamento {
+    color: red;
+}
+
+.menu a {
+    color: white;
+}
